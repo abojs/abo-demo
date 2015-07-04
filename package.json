@@ -8,17 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zkochan/abo-demo.git"
+    "url": "https://github.com/abojs/abo-demo.git"
   },
   "keywords": [
     "abo"
   ],
-  "author": "Zoltan Kochan",
+  "author": {
+    "name": "Zoltan Kochan",
+    "email": "zoltan.kochan@gmail.com",
+    "url": "http://kochan.io"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zkochan/abo-demo/issues"
+    "url": "https://github.com/abojs/abo-demo/issues"
   },
-  "homepage": "https://github.com/zkochan/abo-demo",
+  "homepage": "https://github.com/abojs/abo-demo",
   "devDependencies": {
     "mocha": "^2.2.5"
   }
